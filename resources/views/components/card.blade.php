@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/css/dist/card.css">
+
 <div>
     <div class="Card">
         <div class="Card-img">
